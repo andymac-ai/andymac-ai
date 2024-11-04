@@ -5,6 +5,6 @@
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,github,docker" heigth="40"/>
+    <img src="https://skillicons.dev/icons?i=aws,html,css,github,docker" heigth="40"/>
   </a>
 </p>
